@@ -1,0 +1,13 @@
+[
+  {
+    "id": "exam-001",
+    "title": "Python Basics Test",
+    "subject": "Python Programming",
+    "difficulty": "easy",
+    "questions": [
+      "sample-001",
+      "sample-002"
+    ],
+    "created_at": "2025-01-01T00:00:00"
+  }
+]
