@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sample-001",
+    "text": "Python ใช้คำสั่งใดในการแสดงผลลัพธ์?",
+    "choices": [
+      "echo()",
+      "print()",
+      "console.log()",
+      "printf()"
+    ],
+    "correct_answer": 1,
+    "subject": "Python Programming",
+    "topic": "Basic Syntax",
+    "difficulty": "easy",
+    "created_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": "sample-002",
+    "text": "ข้อใดคือ data type ใน Python?",
+    "choices": [
+      "int",
+      "string",
+      "list",
+      "ถูกทุกข้อ"
+    ],
+    "correct_answer": 3,
+    "subject": "Python Programming",
+    "topic": "Data Types",
+    "difficulty": "easy",
+    "created_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": "sample-003",
+    "text": "อะไรคือผลลัพธ์ของ 2 ** 3 ใน Python?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "5"
+    ],
+    "correct_answer": 1,
+    "subject": "Python Programming",
+    "topic": "Operators",
+    "difficulty": "medium",
+    "created_at": "2025-01-01T00:00:00"
+  }
+]
