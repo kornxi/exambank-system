@@ -10,21 +10,30 @@
 - ค้นหาคำถามด้วยคำสำคัญ (Search questions by keywords)
 - จัดเก็บข้อมูลในรูปแบบ JSON (Store data in JSON format)
 
-## การติดตั้ง (Installation)
+## 📥 การดาวน์โหลด (Download)
 
-### วิธีที่ 1: ดาวน์โหลดเป็นไฟล์ ZIP (Download as ZIP)
+### ✅ วิธีที่ 1: ดาวน์โหลดเป็นไฟล์ ZIP (แนะนำ)
 
-1. ไปที่ https://github.com/kornxi/exambank-system
-2. คลิกปุ่ม "Code" สีเขียว
-3. เลือก "Download ZIP"
-4. แตกไฟล์ ZIP ที่ดาวน์โหลดมา
+**ทำตามขั้นตอนเหล่านี้เพื่อดาวน์โหลดไฟล์ทั้งหมดเป็น ZIP:**
 
-### วิธีที่ 2: Clone จาก GitHub
+1. 🌐 เปิดเว็บเบราว์เซอร์ไปที่: https://github.com/kornxi/exambank-system
+2. 🟢 มองหาปุ่ม **"Code"** สีเขียวทางขวาบน (ใกล้กับ "About")
+3. 📦 คลิกปุ่ม "Code" แล้วเลือก **"Download ZIP"**
+4. ⏳ รอให้ไฟล์ `exambank-system-main.zip` ดาวน์โหลดเสร็จ
+5. 📂 แตกไฟล์ ZIP ที่ดาวน์โหลดมาไว้ในโฟลเดอร์ที่ต้องการ
+6. ✅ เสร็จสิ้น! คุณได้ไฟล์ทั้งหมดของระบบแล้ว
+
+### วิธีที่ 2: Clone จาก GitHub (สำหรับผู้ที่มี Git)
 
 ```bash
 git clone https://github.com/kornxi/exambank-system.git
 cd exambank-system
 ```
+
+## 🚀 การติดตั้งและเริ่มใช้งาน
+
+### ข้อกำหนด
+- Python 3.7 หรือสูงกว่า (ดาวน์โหลดจาก https://www.python.org)
 
 ### ติดตั้ง Dependencies
 
